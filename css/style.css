@@ -534,8 +534,7 @@ section::after {
 }
 
 #timer {
-	background: url('../images/placehold.jpg') 50% 0 no-repeat fixed;
-	color: #FFF;
+	background-color: #ecc26a;
 	width: 100%;
 	height: 410px;
 	left: 0;
@@ -576,8 +575,7 @@ section::after {
 }
 
 #registry {
-	background: url('../images/placehold.jpg') 50% 0 no-repeat fixed;
-	color: #FFF;
+	background-color: #ecc26a;
 	height: 400px;
 	width: 100%;
 	margin: 0 auto;
@@ -594,8 +592,7 @@ section::after {
 }
 
 #rsvp {
-	background: url('../images/placehold.jpg') 50% 0 no-repeat fixed;
-	color: #FFF;
+	background-color: #ecc26a;
 	height: 380px;
 	margin: 0 auto;
 	width: 100%;
